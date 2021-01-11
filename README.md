@@ -123,8 +123,8 @@ https://github.com/hedongshu/miniapp-coupons​github.com
 
 ## 效果展示
 
-![二维码](https://github.com/hedongshu/miniapp-coupons/blob/main/IMG_7327.JPG)
-![展示](https://github.com/hedongshu/miniapp-coupons/blob/main/IMG_7326.PNG)
+![二维码](http://images.51daixue.cn/news/meituan.jpg)
+![展示](http://images.51daixue.cn/news/meituanyanshi.jpg)
 
 
 
