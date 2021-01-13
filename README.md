@@ -108,15 +108,11 @@ https://github.com/hedongshu/miniapp-coupons​github.com
 
 * 怎么获取饿了么和美团的推广链接
   
-  美团联盟：https://union.meituan.com/
+  美团联盟：https://www.dingdanxia.com/tool/index
 
-  饿了么、双十一：https://pub.alimama.com/
+  饿了么：https://www.dingdanxia.com/tool/index
 
-  饿了么聚合页CPS推广：https://market.m.taobao.com/app/qn/toutiao-new/index-pc.html#/detail/10628647/?_k=h8emzf
-
-  去淘宝联盟开通淘宝客权限，可以直接调用api生成
-
-  不想写代码的话可以用api测试工具生成推广链接：api测试工具
+  饿了么聚合页CPS推广：https://www.dingdanxia.com/tool/index
 
 
 
